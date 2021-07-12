@@ -9,6 +9,10 @@
 - Disemvowel trolls
 - Isogram
 - Shortest Word
+- Counting Duplicates
+- Vowel Count
+- Highest and Lowest
+- Binary Addition
 
 #### Apesar de não ser um programador nato nem muito eficiente, possuo uma stream enquanto resolvo os desafios, dessa forma consigo interagir com outras pessoas interessadas no assunto, falar sobre a lógica ao passo que estou desenvolvendo e adaptar o código à sugestões, a stream pode ser acessada em:  
 
