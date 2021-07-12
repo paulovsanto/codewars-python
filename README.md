@@ -9,6 +9,7 @@
 - Disemvowel trolls
 - Isogram
 - Shortest Word
+<<<<<<< HEAD
 - Counting Duplicates
 - Vowel Count
 - Highest and Lowest
@@ -16,6 +17,9 @@
 
 #### Apesar de não ser um programador nato nem muito eficiente, possuo uma stream enquanto resolvo os desafios, dessa forma consigo interagir com outras pessoas interessadas no assunto, falar sobre a lógica ao passo que estou desenvolvendo e adaptar o código à sugestões, a stream pode ser acessada em:  
 
+=======
+## Eu abro uma stream na Twitch quando estou solucionando os desafios, acompanhe!
+>>>>>>> 1e64ecc367168d7f8333dbd575872fd09b4f0767
 ##										https://www.twitch.tv/paulovsanto
 
 
