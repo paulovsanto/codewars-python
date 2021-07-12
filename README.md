@@ -12,6 +12,7 @@
 - Counting Duplicates
 - Vowel Count
 - Highest and Lowest
+- Binary Addition
 
 ## Eu abro uma stream na Twitch quando estou solucionando os desafios, acompanhe!
 
